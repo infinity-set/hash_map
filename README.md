@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the `hash_map` repository! This C program provides an implementation of a map (dictionary) using linked lists, with a strong emphasis on an efficient hash map structure. The implementation incorporates strategies to handle collisions, ensuring reliable storage and retrieval of key-value pairs in the map.
+Welcome to the `hash_map` repository! This C program provides an implementation of a has map (dictionary) using linked lists, with a strong emphasis on an efficient hash map structure. The implementation incorporates strategies to handle collisions, ensuring reliable storage and retrieval of key-value pairs in the map.
 
 This project serves as an educational resource for understanding not only linked lists and memory management but also the intricacies of designing a hash map in the C programming language.
 

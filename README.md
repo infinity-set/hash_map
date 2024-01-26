@@ -38,7 +38,7 @@ Before using this C program, ensure that you have the following:
 
 - A C compiler installed on your system.
 - Basic understanding of C programming, including linked lists and memory allocation concepts.
-- Review: [C Implementation of a Hash Map with Linked List](https://github.com/infinity-set/hash_map)
+- Review: [C Implementation of a Map with Linked List](https://github.com/infinity-set/c_map)
 
 ## Languages and Utilities Used
 

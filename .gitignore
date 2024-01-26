@@ -1,0 +1,143 @@
+### Linux ###
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+### macOS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+.DS_Store:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+### Visual Studio Code ###
+.vscode/
+.history/
+
+
+### Python ###
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite3
+*.log
+
+### Node.js ###
+node_modules/
+npm-debug.log
+
+### Java ###
+*.class
+*.jar
+
+### Gradle ###
+.gradle/
+build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Eclipse ###
+bin/
+target/
+.classpath
+.project
+
+### Build Artifacts ###
+/build/
+/dist/
+/out/
+
+### Logs and Temporary Files ###
+*.log
+*.tmp
+
+### Dependency Directories ###
+/node_modules/
+/vendor/
+
+### IDE/Editor Specific Files ###
+*.suo
+*.swp
+.settings/
+.settings.xml
+.classpath
+.project
+.apt_generated/
+bin/
+lib/
+*.ini
+
+### System Files ###
+Thumbs.db
+.DS_Store
+
+### User-Specific Files ###
+.vscode/settings.json
+.vscode/tasks.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+### Temporary Files ###
+*.bak
+*.backup
+*.swp
+*.~*
+
+### Compiled Files ###
+*.exe
+*.dll
+*.so
+*.out
+
+### Dependency Management ###
+/pipenv/
+/.venv/
+/venv/
+/env/
+/ENV/
+/.pdm.toml
+Pipfile.lock
+poetry.lock
+
+### Logs and Caches ###
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.tox/
+.nox/
+.cache/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+### Jupyter Notebooks ###
+.ipynb_checkpoints/
+
+### Docker ###
+.dockerignore
+.docker/
+!Dockerfile
+
+### Miscellaneous ###
+*.tmp
+*.bak
+*.swp
+*.~*
